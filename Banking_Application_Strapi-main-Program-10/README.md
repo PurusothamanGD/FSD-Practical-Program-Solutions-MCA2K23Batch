@@ -18,7 +18,7 @@ Before you can run this application, make sure you have the following software i
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Vivek1671/banking-app.git
+   git clone 
    cd banking-app
    ```
 
